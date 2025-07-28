@@ -11,7 +11,7 @@
 [최종 발표자료](/project.pptx)
 
 ### 시연 동영상 
-<iframe width="1139" height="630" src="https://www.youtube.com/embed/5EtOquxfIRA?list=RD5EtOquxfIRA" title="[최신가요 실시간 인기차트] 2025년 7월 24일 4주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/5EtOquxfIRA?list=RD5EtOquxfIRA" title="[최신가요 실시간 인기차트] 2025년 7월 24일 4주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### reference
