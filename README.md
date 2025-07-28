@@ -5,7 +5,7 @@
 # 개발자 소개
 ## 작품 1
 ### 설계도
-<img src = "archi.jpg"/>
+<img src = "archi.png"/>
 
 ### 더 작은 제목 
 # 사진
