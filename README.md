@@ -15,8 +15,8 @@
 
 
 ### reference
-[네이버](https://www.naver.com)
-[구글](https://www.google.com)
+1. [네이버](https://www.naver.com) <br>
+2. [구글](https://www.google.com) <br>
 
 # 사진
 동영상
