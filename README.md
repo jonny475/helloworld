@@ -3,6 +3,15 @@
 여기는 markdown language를 쓴다. 
 나무위키, 위키피디아 
 # 개발자 소개
+
+| 제목 | 내용 | 설명 |
+|---|---|---|
+| 이름 | 홍길동 | 테스트 |
+| 기술 | frontend | html, css, js, kotlin |
+|      | backend| django, flask |
+|      | DataBase | oracle |
+
+
 ## 작품 1 - django framework 활용 게시판 만들기 
 ### 설계도
 <img src = "archi.png"/>
@@ -17,6 +26,7 @@
 ### reference
 1. [네이버](https://www.naver.com) <br>
 2. [구글](https://www.google.com) <br>
+
 
 # 사진
 동영상
