@@ -1,0 +1,62 @@
+sudo apt-get install app
+sudo apt-get purge app
+
+<server1>
+sudo apt-get purge apache2
+/var/www/html
+cd /var/www
+sudo rm -rf html
+systemctl status apache2
+
+sudo apt-get purge tomcat10*
+cd /var/lib
+ls
+sudo rm -rf tomcat10
+ls -al tomcat10
+systemctl status tomcat10
+
+
+<server1 VM>
+1. apache2, tomcat10*설치
+(my home dir로 변경x)
+2. tomcat- sample deploy 
+2.1 web manager user 활성화
+- tomcat-users.xml
+2.2 sample deploy 
+2.3 http://localhost:8080/sample 확인
+
+3. connector 설치
+- libapache2-mod-jk?
+- 3종 설정 변경 (apache, 
+lib-mod-jk, tomcat)
+- http://localhost:80/sample
+
+<client VM>  (2번째)
+1. tomcat 설치
+2. myfristapp deploy
+- web manager활성화
+- tomcat-users.xml
+- myfirstapp deploy
+- http://clientVM_IP:8080/myfirstapp/
+3. server.xml을 수정 
+- 8009번 port 열어주기
+
+<server VM >
+1. apache 설정에, tomcat1, tomcat2 두명의 일꾼 설정
+JKMount /sample/* tomcat1
+JKMount /myfirstapp/* tomcat2
+
+2. connector 설정수정
+tomcat2의 host, port, type ??
+
+<최종 확인>
+http://apache_VM_IP:80/sample/
+http://apache_VM_IP:80/myfirstapp/
+
+
+
+
+
+
+
+
